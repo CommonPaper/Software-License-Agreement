@@ -20,5 +20,5 @@ Common Paper agreements are free to use and modify under [CC BY 4.0](https://cre
 
 ```console
 npm install markdownlint-cli
-npx markdownlint "Partnership-Agreement.md" --config="config/lint.json"
+npx markdownlint "Software-License-Agreement.md" --config="config/lint.json"
 ```
