@@ -21,6 +21,6 @@ Common Paper agreements are free to use and modify under [CC BY 4.0](https://cre
 Use a node version higher than `16.x`.
 
 ```console
-npm install
+npm install markdownlint-cli
 npx markdownlint "Software-License-Agreement.md" --config="config/lint.json"
 ```
