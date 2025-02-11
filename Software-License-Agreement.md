@@ -107,7 +107,7 @@
     27. <span id="11.27">**"Recipient"**</span> means a party to this Agreement when the party receives Confidential Information from the other party.
     28. <span id="11.28">**"Services"**</span> means the support and maintenance services described in the Order Form.
     29. <span id="11.29">**"Software"**</span> means the product described in the Order Form and provided Updates.
-    30. <span id="11.30">**"Standard Terms"**</span> means these Common Paper Software License Standard Terms Version 0.1, which are posted at <https://commonpaper.com/standards/software-license-agreement/0.1>.
+    30. <span id="11.30">**"Standard Terms"**</span> means these Common Paper Software License Standard Terms Version 1.1, which are posted at <https://commonpaper.com/standards/software-license-agreement/1.1>.
     31. <span id="11.31">**"Updates"**</span> means updates and maintenance releases to the Software made available by <span class="coverpage_link">Provider</span> to <span class="coverpage_link">Customer</span>.
     32. <span id="11.32">**"Usage Data"**</span> means data and information about the provision, use, and performance of the Product and related offerings based on <span class="coverpage_link">Customer's</span> or User’s use of the Product.
     33. <span id="11.33">**"User"**</span> means any individual who uses the Product on <span class="coverpage_link">Customer's</span> behalf or through <span class="coverpage_link">Customer's</span> account.
